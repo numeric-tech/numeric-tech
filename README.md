@@ -4,7 +4,7 @@
   <samp>
     <a href='https://numeric.tech'>website</a> |
     <a href='https://x.com/numericmachines'>X</a> |
-    <a href='https://www.linkedin.com/company/numericmachines/'>linkedin</a> |
+    <a href='https://www.linkedin.com/company/numericmachines/'>linkedin</a>
   </samp>
 </div>
 
